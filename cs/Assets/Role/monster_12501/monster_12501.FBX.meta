@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 0ced1a5830ac050419653270891b7919
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Horse
+    100002: HorseLArm1
+    100004: HorseLArm1 1
+    100006: HorseLArm2
+    100008: HorseLArm2 1
+    100010: HorseLArmCollarbone
+    100012: HorseLArmCollarbone 1
+    100014: HorseLArmPalm
+    100016: HorseLArmPalm 1
+    100018: HorseLFrontHoof
+    100020: HorseLHumerus
+    100022: HorseLLegFemur
+    100024: HorseLLegPhalanxPrima
+    100026: HorseLLegPlatform
+    100028: HorseLLegRearHoof
+    100030: HorseLLegTibia
+    100032: HorseLPhalangesManus
+    100034: HorseLPlatform
+    100036: HorseLRadius
+    100038: HorseLScapula
+    100040: HorsePalmBone001
+    100042: HorsePalmBone001 1
+    100044: HorsePalmBone001 2
+    100046: HorsePalmBone001Bone001
+    100048: HorsePalmBone001Bone001 1
+    100050: HorsePalmBone001Bone001 2
+    100052: HorsePalmBone001Bone002
+    100054: HorsePalmBone002
+    100056: HorsePalmBone002 1
+    100058: HorsePalmBone002 2
+    100060: HorsePalmBone002Bone001
+    100062: HorsePalmBone002Bone001 1
+    100064: HorsePalmBone002Bone001 2
+    100066: HorsePalmBone002Bone002
+    100068: HorsePalmBone003
+    100070: HorsePalmBone004
+    100072: HorsePalmBone005
+    100074: HorsePalmBone005 1
+    100076: HorsePalmBone006
+    100078: HorsePelvis
+    100080: HorseRArm1
+    100082: HorseRArm1 1
+    100084: HorseRArm2
+    100086: HorseRArm2 1
+    100088: HorseRArmCollarbone
+    100090: HorseRArmCollarbone 1
+    100092: HorseRArmPalm
+    100094: HorseRArmPalm 1
+    100096: HorseRFemur
+    100098: HorseRibcage
+    100100: HorseRibcageBone001
+    100102: HorseRibcageBone001Bone001
+    100104: HorseRibcageBone001Bone001Bone001
+    100106: HorseRibcageBone001Bone001Bone001Bone001
+    100108: HorseRibcageBone001Bone001Bone001Bone001Bone001
+    100110: HorseRLegFrontHoof
+    100112: HorseRLegHumerus
+    100114: HorseRLegPhalangesManus
+    100116: HorseRLegPlatform
+    100118: HorseRLegRadius
+    100120: HorseRLegScapula
+    100122: HorseRPhalanxPrima
+    100124: HorseRPlatform
+    100126: HorseRRearHoof
+    100128: HorseRTibia
+    100130: HorseSpine1
+    100132: HorseSpine2
+    100134: HorseTail1
+    100136: HorseTail2
+    100138: HorseTail3
+    100140: HorseTail4
+    100142: //RootNode
+    100144: monster_12501
+    100146: Horse4Bone001
+    100148: monster_12501++++
+    400000: Horse
+    400002: HorseLArm1
+    400004: HorseLArm1 1
+    400006: HorseLArm2
+    400008: HorseLArm2 1
+    400010: HorseLArmCollarbone
+    400012: HorseLArmCollarbone 1
+    400014: HorseLArmPalm
+    400016: HorseLArmPalm 1
+    400018: HorseLFrontHoof
+    400020: HorseLHumerus
+    400022: HorseLLegFemur
+    400024: HorseLLegPhalanxPrima
+    400026: HorseLLegPlatform
+    400028: HorseLLegRearHoof
+    400030: HorseLLegTibia
+    400032: HorseLPhalangesManus
+    400034: HorseLPlatform
+    400036: HorseLRadius
+    400038: HorseLScapula
+    400040: HorsePalmBone001
+    400042: HorsePalmBone001 1
+    400044: HorsePalmBone001 2
+    400046: HorsePalmBone001Bone001
+    400048: HorsePalmBone001Bone001 1
+    400050: HorsePalmBone001Bone001 2
+    400052: HorsePalmBone001Bone002
+    400054: HorsePalmBone002
+    400056: HorsePalmBone002 1
+    400058: HorsePalmBone002 2
+    400060: HorsePalmBone002Bone001
+    400062: HorsePalmBone002Bone001 1
+    400064: HorsePalmBone002Bone001 2
+    400066: HorsePalmBone002Bone002
+    400068: HorsePalmBone003
+    400070: HorsePalmBone004
+    400072: HorsePalmBone005
+    400074: HorsePalmBone005 1
+    400076: HorsePalmBone006
+    400078: HorsePelvis
+    400080: HorseRArm1
+    400082: HorseRArm1 1
+    400084: HorseRArm2
+    400086: HorseRArm2 1
+    400088: HorseRArmCollarbone
+    400090: HorseRArmCollarbone 1
+    400092: HorseRArmPalm
+    400094: HorseRArmPalm 1
+    400096: HorseRFemur
+    400098: HorseRibcage
+    400100: HorseRibcageBone001
+    400102: HorseRibcageBone001Bone001
+    400104: HorseRibcageBone001Bone001Bone001
+    400106: HorseRibcageBone001Bone001Bone001Bone001
+    400108: HorseRibcageBone001Bone001Bone001Bone001Bone001
+    400110: HorseRLegFrontHoof
+    400112: HorseRLegHumerus
+    400114: HorseRLegPhalangesManus
+    400116: HorseRLegPlatform
+    400118: HorseRLegRadius
+    400120: HorseRLegScapula
+    400122: HorseRPhalanxPrima
+    400124: HorseRPlatform
+    400126: HorseRRearHoof
+    400128: HorseRTibia
+    400130: HorseSpine1
+    400132: HorseSpine2
+    400134: HorseTail1
+    400136: HorseTail2
+    400138: HorseTail3
+    400140: HorseTail4
+    400142: //RootNode
+    400144: monster_12501
+    400146: Horse4Bone001
+    400148: monster_12501++++
+    4300000: monster_12501
+    4300002: monster_12501++++
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: monster_12501
+    13700002: monster_12501++++
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0500000007
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
